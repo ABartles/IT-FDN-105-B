@@ -1,0 +1,18 @@
+Project 
+-------
+Things to fix:
+- 'Change item' selection doesnt work. (fixed)
+	- Not sure why 
+ 
+- 'Delete item' selection doesnt work. (fixed)
+	- Deletes the wrong item
+	- Deletes the next item in the list after the item selected by the user. 
+
+- Value is wrong on changed item (fixed)
+	- need to call out pos x in value equation
+
+- Print list each time Change or Delete are selected. 
+	- Can be fixed by using seperate classes and/or Methods
+
+
+
